@@ -14,4 +14,5 @@ export default defineConfig({
     }
   },
   base: '/build_actions'
+
 })
